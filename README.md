@@ -18,6 +18,6 @@ CoolApp does anything you want it to. Use the ReadMe information below to answer
 
 For more information, refer to **Getting Started**.
 
-##Getting Started##
+## Getting Started ##
 You can do just about anything like with CoolApp as it isn't a real App.
 

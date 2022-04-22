@@ -3,15 +3,17 @@
 An example repository to play with...
 
 ## Quickstart ##
-Install CoolApp and deploy a sample product site:
+1. Install CoolApp and deploy a sample product site:
 
-Open a console.
+1. Open a console.
 
-Enter the following commands to install **CoolApp** and build/deploy a sample site:
+1. Enter the following commands to install **CoolApp** and build/deploy a sample site:
 ~~~
    choco install Cool
    Cool init -q
    Cool cool_project\cool.json --serve
-   Go to https://localhost:8080 to view the sample Cool App UI.
-~~~
+~~~   
+   
+4.   Go to https://localhost:8080 to view the sample Cool App UI.
+
 For more information, refer to **Getting Started**.
